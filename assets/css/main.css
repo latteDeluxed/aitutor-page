@@ -1748,5 +1748,5 @@ section,
 }
 
 
-.video-wrap { max-width: 1200px !important; margin: auto;}
+.video-wrap { max-width: 1200px; margin: auto;}
 .video-wrap video { width: 100%; height: auto; display: block; }
